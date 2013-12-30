@@ -1,5 +1,5 @@
 require "health_caluclator/version"
 
 module HealthCaluclator
-  # Your code goes here...
+  puts "Welcome To HealthCaluclator"
 end

@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = HealthCaluclator::VERSION
   spec.authors       = ["saikiranmothe"]
   spec.email         = ["saikiran.mothe@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{HealthCaluclator : calucalate your health data :) }
+  spec.summary       = %q{HealthCaluclator : calucalate your Health Data}
   spec.homepage      = ""
   spec.license       = "MIT"
 
