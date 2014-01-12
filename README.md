@@ -1,6 +1,6 @@
 # HealthCalculator
 
-TODO: Write a gem description
+Health data calculator -- Calclates all health data
 
 ## Installation
 
